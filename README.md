@@ -13,13 +13,13 @@ Search and Assistant across Microsoft Outlook, Teams, and Sharepoint.
 
 ## Mobvoi AI Lab, Seattle WA, 2016-2020
 [Mobvoi](http://www.mobvoi.com) makes speech-enabled smart [IoT devices](http://store.ticwear.com), from hardware to software, all in-house. Mobvoi also
-provides the in-car voice assistant for VW automobiles in China. The technology includes both on-the-cloud and on-device navigation, enabling majority of
+provides the in-car voice assistant for VW automobiles in China. The technology includes both on-the-cloud and on-device voice navigation, enabling majority of
 services without internet connection. Though a young company that focuses on industry products, we are actively participating in our speech research 
 community with our limited resources. Our publications can be found in [Mobvoi publications](mobvoi/REAMD.md).
 
 ## Spoken language understanding for Cortana, Microsoft China, 2012-2015
-To deliver non-English Cortana without human annotated data, Mei-Yuh designed an adapted translation algorithm which offered both paraphrasing and
-generalization capabilities with required slot tags. The protoype model was further improved via iterative data augmentation using RNN and newly 
+To deliver non-English language understanding (LU) component for Cortana without human annotated data, Mei-Yuh designed an adapted translation algorithm which offered both paraphrasing and
+generalization capabilities with required slot tags. The protoype LU model was further improved via iterative data augmentation using RNN and newly 
 logged data. The impressive success of Chinese Cortana gained much attention within China, and sparked the development of personal assistants 
 and AI across China.
 
@@ -29,7 +29,7 @@ Mei-Yuh continued to contribute to Microsoft cognitive services:
 * Spontaneous speech recogition for [Skype speech-to-speech translation](https://www.techlicious.com/blog/skype-translator-preview-app-launch/).
 
 ## Speech recognition and machine translation at Microsoft and UW, WA, 1994-2012
-Sphinx-II was ported to Microsoft on Windows desktop, Office, and Microsoft Speech Server SDK, for the recognition of multiple languages during 1994-2004.
+As one of the main authors of Sphinx-II, Mei-Yuh ported SPHIX-II to Microsoft on Windows desktop, Office, and Microsoft Speech Server SDK, for the speech recognition of multiple languages during 1994-2004.
 
 From 2004-2008, Mei-Yuh led the DARPA EARS and GALE Mandarin speech recongition projects at University of Washington (UW). 
 Her [IEEE paper](https://ieeexplore.ieee.org/document/5165110) was a gold reference guide on building a high-quality Mandarin speech recognizer.
