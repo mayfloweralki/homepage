@@ -7,6 +7,9 @@ Additionally she spent four years at Uiniversity of Washington on Mandarin speec
 years at an AI startup, [Mobvoi](http://www.mobvoi.com), from 2016 through early 2020. She is an IEEE fellow, who is passionate in bridging the gap between 
 academia and industry. She is currently with [Microsoft MSAI team](https://www.microsoft.com/en-us/research/people/mehwang/).
 
+## Metaverse, AI Research Scientist @AI4AR, 5/2022--Now
+Combining the power of speech, text, image multi-modal to ease and improve human life.
+
 ## Microsoft Search, Assistant, and Intelligence (MSAI), Seattle WA, 4/2020-present
 
 Search and Assistant across Microsoft Outlook, Teams, and Sharepoint.
