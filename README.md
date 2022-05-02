@@ -10,7 +10,7 @@ academia and industry. She is currently with [Microsoft MSAI team](https://www.m
 ## Metaverse, AI Research Scientist @AI4AR, 5/2022--Now
 Combining the power of speech, text, image multi-modal to ease and improve human life.
 
-## Microsoft Search, Assistant, and Intelligence (MSAI), Seattle WA, 4/2020-present
+## Microsoft Search, Assistant, and Intelligence (MSAI), Seattle WA, 4/2020-4/2022
 
 Search and Assistant across Microsoft Outlook, Teams, and Sharepoint.
 
