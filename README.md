@@ -12,7 +12,7 @@ Combining the power of speech, text, image multi-modal to ease and improve human
 
 ## Microsoft Search, Assistant, and Intelligence (MSAI), Seattle WA, 4/2020-4/2022
 
-NLP for Outlook and Teams search, based on fine-tuning on and/or few-shot prompting to the large pre-trained language models.
+NLP for Outlook and Teams search, based on fine-tuning on and/or few-shot prompting to various large pre-trained language models.
 
 ## Mobvoi AI Lab, Seattle WA, 2016-2020
 [Mobvoi](http://www.mobvoi.com) makes speech-enabled smart [IoT devices](http://store.ticwear.com), from hardware to software, all in-house. Mobvoi also
