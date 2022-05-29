@@ -15,7 +15,7 @@ Combining the power of speech, text, and image multi-modality to ease and enrich
 NLP for Outlook and Teams search, based on fine-tuning on, and/or few-shot prompting to, various large pre-trained language models.
 
 ## Mobvoi AI Lab, Seattle WA, 2016-2020
-[Mobvoi](http://www.mobvoi.com) makes speech-enabled smart [IoT devices](http://store.ticwear.com), from hardware to software, all in-house. We are one of the most successful company in smart watches. Mobvoi also
+[Mobvoi](http://www.mobvoi.com) makes speech-enabled smart [IoT devices](http://store.ticwear.com), from hardware to software, all in-house. We are one of the most successful companies in smart watches. Mobvoi also
 provides the in-car voice assistant for VW automobiles in China. The technology includes both on-the-cloud and on-device voice navigation, enabling majority of
 services without internet connection. Though a young company that focuses on industry products, we are actively participating in our speech research 
 community with our limited resources. Our publications can be found in [Mobvoi publications](mobvoi/REAMD.md).
