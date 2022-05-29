@@ -8,7 +8,7 @@ years at an AI startup, [Mobvoi](http://www.mobvoi.com), from 2016 through early
 academia and industry. She is currently with the AI4AR Lab at Meta (formally Facebook).
 
 ## Meta, AI Research Scientist @AI4AR, 5/2022--Now
-Combining the power of speech, text, image multi-modal to ease and enrich human life.
+Combining the power of speech, text, and image multi-modality to ease and enrich human life.
 
 ## Microsoft Search, Assistant, and Intelligence (MSAI), Seattle WA, 4/2020-4/2022
 
