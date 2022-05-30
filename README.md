@@ -46,6 +46,7 @@ Mei-Yuh was the first to propose Markov state clustering based on decision trees
 (or [senones](https://ieeexplore.ieee.org/document/225979/) as Mei-Yuh named it in 1992) had been widely adopted for two decades since its inception, until recent years when end-to-end neural-based speech recognition such as RNN-T and transformers is gaining ground.
 
 ## Awards
+* 2021, [AAIA](https://www.aaia-ai.org/) Fellow
 * 2019, IEEE Fellow
 * 2010, Microsoft Gold Star Award from Microsoft Research, Redmond, WA
 * 1992, Allen Newell Research Excellence Medal, Pittsburgh, Carnegie Mellon University
