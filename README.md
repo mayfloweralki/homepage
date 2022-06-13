@@ -4,7 +4,7 @@
 Mei-Yuh received her PhD in Computer Science from Carnegie Mellon University in 1993 and had worked at Microsoft in U.S. and in China for 20 years,
 publishing numerous conference and journal papers, and delivering industry products in speech recognition, machine translation, and language understanding.
 Additionally she spent four years at Uiniversity of Washington on Mandarin speech recognition for DARPA EARS and GALE projects during 2004-2008, and four 
-years at an AI startup, [Mobvoi](http://www.mobvoi.com), from 2016 through early 2020. She is an IEEE fellow, who is passionate in bridging the gap between 
+years at an AI startup, [Mobvoi](http://www.mobvoi.com) (checkout our star product, smart [TicWatch](https://www.mobvoi.com/us)), from 2016 through early 2020. She is an IEEE fellow, who is passionate in bridging the gap between 
 academia and industry. She is currently with the AI4AR Lab at Meta (formally Facebook).
 
 ## Meta, AI Research Scientist @AI4AR, 5/2022--Now
